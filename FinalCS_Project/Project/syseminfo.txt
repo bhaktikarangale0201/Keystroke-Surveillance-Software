@@ -1,0 +1,10 @@
+Public IP Address: 103.97.166.170Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: DESKTOP-1E0EVUD
+Private IP Address: 10.10.11.164
+Public IP Address: 115.248.146.117Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: DESKTOP-1E0EVUD
+Private IP Address: 10.10.11.164
